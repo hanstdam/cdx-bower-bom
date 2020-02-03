@@ -1,5 +1,5 @@
 {
-  "name": "cdx-bower-module",
+  "name": "cdx-bower-bom",
   "version": "0.1.0",
   "description": "Creates CycloneDX Software Bill-of-Materials (SBOM) from Bower packages",
   "main": "index.js",
