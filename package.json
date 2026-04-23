@@ -20,7 +20,7 @@
     "packageurl-js": "0.0.1",
     "parse-packagejson-name": "1.0.1",
     "prettify-xml": "1.2.0",
-    "uuid": "8.3.2",
+    "uuid": "14.0.0",
     "xmlbuilder": "13.0.2"
   },
   "files": [
